@@ -1,0 +1,5 @@
+{
+  "name": "Node JS To Do Application",
+  "description": "A node.js express and ejs version of a simple socket based to do",
+  "keywords": ["node", "express", "heroku"]
+}

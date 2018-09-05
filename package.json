@@ -1,0 +1,29 @@
+{
+  "name": "to-do-node",
+  "version": "1.0.0",
+  "description": "a simple nodejs and express application",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HayoFriese/nodeToDo.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Hayo Friese",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HayoFriese/nodeToDo/issues"
+  },
+  "homepage": "https://github.com/HayoFriese/nodeToDo#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "mocha": "^5.2.0",
+    "request": "^2.88.0"
+  }
+}
