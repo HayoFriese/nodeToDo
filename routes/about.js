@@ -1,0 +1,1 @@
+app.get('/about', (req, res) => res.render('pages/about'))

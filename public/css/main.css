@@ -1,0 +1,11 @@
+.wrapper{
+	min-height: 500px;
+	padding: 50px 5%;
+}
+.nav-extended{
+	padding-left: 5%;
+	padding-right: 5%;
+}
+.bl-blue-grey{
+	border-left-color: #607d8b;
+}
